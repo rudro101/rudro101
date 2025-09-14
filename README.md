@@ -1,6 +1,6 @@
 # Hi, I'm Prosun 👋
 
-🎓 Master's student in Embedded Computing Systems  
+🎓 Master's student @  | Embedded Computing Systems  
 💻 Passionate about embedded systems, C/C++, and hardware-software integration  
 📍 Based in Vienna  
 
