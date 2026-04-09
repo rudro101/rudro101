@@ -2,7 +2,7 @@
 
 🎓 Master's student @ TU Wien | Embedded Computing Systems  
 💻 Passionate about embedded systems, C/C++, and hardware-software integration  
-//📍 Based in   
+📍 Based in   
 
 ---
 
